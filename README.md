@@ -2,7 +2,7 @@
 
 Designed an interactive **Power BI dashboard** to extract valuable insights for deriving new business strategies to grow the business
 
-![image](https://github.com/user-attachments/assets/f5902072-2f63-45a4-858f-510cfe614efe)
+![image](https://github.com/user-attachments/assets/31350383-7232-4bbb-86c8-d83765785bb0)
 
 **Analysis:**
 --------------------------------------------------------------------------------------------------------------------------
